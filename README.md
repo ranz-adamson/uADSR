@@ -4,6 +4,7 @@ Small Envelope Generator based on ATMEGA
 # Parts list (TBF)
 
 ATMEGA328P
+
 28 PIN DIP
 
 16MHz Crystal
