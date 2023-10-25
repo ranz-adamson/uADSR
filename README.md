@@ -1,5 +1,6 @@
 # uADSR
 Small Envelope Generator based on ATMEGA
+Intended for eurorack modular synthesizers
 
 # Parts list (TBF)
 
