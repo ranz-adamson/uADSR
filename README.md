@@ -18,3 +18,5 @@ Intended for eurorack modular synthesizers
 - 16 PIN IDC x 1
 
 Note: Opamp possibly use 741, LM358, TL071?
+
+[Link to BOM](https://docs.google.com/spreadsheets/d/1ARuSfgq_MpGuuQYhR71spcWE8PIULeXcGzVRhsJA32I/edit?usp=sharing)
